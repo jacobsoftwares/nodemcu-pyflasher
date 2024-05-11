@@ -1,0 +1,2 @@
+Command to build executable for Mac OS with M1 chip:
+pyinstaller  nodemcu-pyflasher.py --onefile --add-data "images:images" --windowed
